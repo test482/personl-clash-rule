@@ -1,0 +1,4 @@
+# windows force proxy for MARVEL SNAP, Master Duel things
+payload:
+  - PROCESS-NAME,proxifier
+  - PROCESS-NAME,proxifier.exe
