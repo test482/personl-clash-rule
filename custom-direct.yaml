@@ -1,0 +1,5 @@
+payload:
+  # rustdesk
+  - PROCESS-NAME,rustdesk
+  - PROCESS-NAME,rustdesk.exe
+  - PROCESS-NAME,com.carriez.flutter_hbb
