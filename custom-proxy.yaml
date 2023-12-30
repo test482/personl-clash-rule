@@ -1,5 +1,5 @@
 payload:
-  - DOMAIN,sleazyfork.org # sleazyfork
+  - DOMAIN-SUFFIX,sleazyfork.org # sleazyfork
   # chaturbate
   - DOMAIN-SUFFIX,mmcdn.com
   - DOMAIN-SUFFIX,highwebmedia.com
