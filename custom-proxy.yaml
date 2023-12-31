@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,sleazyfork.org # sleazyfork
+  - DOMAIN-SUFFIX,copymanga.site # 拷貝漫畫
   # chaturbate
   - DOMAIN-SUFFIX,mmcdn.com
   - DOMAIN-SUFFIX,highwebmedia.com
