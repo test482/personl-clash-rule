@@ -1,7 +1,13 @@
 payload:
-  - DOMAIN-SUFFIX,snapgametech.com # MARVEL SNAP
   - DOMAIN-SUFFIX,sleazyfork.org # sleazyfork
   - DOMAIN-SUFFIX,copymanga.site # 拷貝漫畫
+  # MARVEL SNAP
+  - DOMAIN-SUFFIX,marvelsnap.com
+  - DOMAIN-SUFFIX,snapgametech.com
+  - DOMAIN-SUFFIX,bytedgame.com
+  - DOMAIN-SUFFIX,bytegsdk.com
+  - DOMAIN-SUFFIX,byteintlapi.com
+  - DOMAIN-SUFFIX,byteoversea.com
   # chaturbate
   - DOMAIN-SUFFIX,mmcdn.com
   - DOMAIN-SUFFIX,highwebmedia.com
