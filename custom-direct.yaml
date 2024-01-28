@@ -4,3 +4,9 @@ payload:
   - PROCESS-NAME,rustdesk
   - PROCESS-NAME,rustdesk.exe
   - PROCESS-NAME,com.carriez.flutter_hbb
+  # tailscale
+  - PROCESS-NAME,Tailscale.exe
+  - PROCESS-NAME,Tailscale Service.exe
+  - PROCESS-NAME,tailscaled.exe
+  - PROCESS-NAME,tailscale-ipn.exe
+  - PROCESS-NAME,com.tailscale.ipn
