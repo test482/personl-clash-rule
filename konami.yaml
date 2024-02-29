@@ -1,5 +1,0 @@
-# Master Duel
-payload:
-  - PROCESS-NAME,masterduel.exe
-  - PROCESS-NAME,jp.konami.masterduel
-  - DOMAIN-SUFFIX,konami.net

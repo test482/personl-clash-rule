@@ -1,15 +1,7 @@
 payload:
-  - DOMAIN-SUFFIX,sleazyfork.org # sleazyfork
   - DOMAIN-SUFFIX,copymanga.site # 拷貝漫畫
-  # MARVEL SNAP
-  - PROCESS-NAME,SNAP.exe
-  - PROCESS-NAME,com.nvsgames.snap
-  - DOMAIN-SUFFIX,marvelsnap.com
-  - DOMAIN-SUFFIX,snapgametech.com
-  - DOMAIN-SUFFIX,bytedgame.com
-  - DOMAIN-SUFFIX,bytegsdk.com
-  - DOMAIN-SUFFIX,byteintlapi.com
-  - DOMAIN-SUFFIX,byteoversea.com
+  - DOMAIN-SUFFIX,sleazyfork.org # sleazyfork
+  - DOMAIN,jenkins.fcitx-im.org # fcitx5-android nightly
   # chaturbate
   - DOMAIN-SUFFIX,mmcdn.com
   - DOMAIN-SUFFIX,highwebmedia.com
