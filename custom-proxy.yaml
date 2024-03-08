@@ -1,8 +1,11 @@
 payload:
   - DOMAIN-SUFFIX,codeium.com # codeium
-  - DOMAIN-SUFFIX,copymanga.site # 拷貝漫畫
   - DOMAIN-SUFFIX,sleazyfork.org # sleazyfork
   - DOMAIN,jenkins.fcitx-im.org # fcitx5-android nightly
+  # 拷貝漫畫
+  - DOMAIN-SUFFIX,copymanga.site
+  - DOMAIN-SUFFIX,copymanga.tv
+  - DOMAIN-SUFFIX,mangafuna.xyz
   # chaturbate
   - DOMAIN-SUFFIX,mmcdn.com
   - DOMAIN-SUFFIX,highwebmedia.com
