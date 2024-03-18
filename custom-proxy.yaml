@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,codeium.com # codeium
   - DOMAIN-SUFFIX,sleazyfork.org # sleazyfork
   - DOMAIN,jenkins.fcitx-im.org # fcitx5-android nightly
+  - DOMAIN,www.csgola.com # CSGOLA
   # 拷貝漫畫
   - DOMAIN-SUFFIX,copymanga.site
   - DOMAIN-SUFFIX,copymanga.tv
