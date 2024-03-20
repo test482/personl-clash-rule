@@ -2,6 +2,7 @@ payload:
   - DOMAIN-SUFFIX,codeium.com # codeium
   - DOMAIN-SUFFIX,localmonero.co # buy XMR
   - DOMAIN-SUFFIX,sleazyfork.org # sleazyfork
+  - DOMAIN-SUFFIX,steamgriddb.com # SteamGridDB
   - DOMAIN-SUFFIX,unminable.com # mining pool
   - DOMAIN,jenkins.fcitx-im.org # fcitx5-android nightly
   - DOMAIN,www.csgola.com # CSGOLA
