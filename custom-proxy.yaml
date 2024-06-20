@@ -4,6 +4,7 @@ payload:
   - DOMAIN-SUFFIX,sleazyfork.org # sleazyfork
   - DOMAIN-SUFFIX,steamgriddb.com # SteamGridDB
   - DOMAIN-SUFFIX,unminable.com # mining pool
+  - DOMAIN,files.nexus-cdn.com # nexus mod
   - DOMAIN,jenkins.fcitx-im.org # fcitx5-android nightly
   - DOMAIN,www.csgola.com # CSGOLA
   # 拷貝漫畫
