@@ -8,6 +8,7 @@ payload:
   - DOMAIN,files.nexus-cdn.com # nexus mod
   - DOMAIN,jenkins.fcitx-im.org # fcitx5-android nightly
   - DOMAIN,www.csgola.com # CSGOLA
+  - DOMAIN,www.subtitlecat.com # subtitlecat
   # 拷貝漫畫
   - DOMAIN-SUFFIX,copymanga.site
   - DOMAIN-SUFFIX,copymanga.tv
