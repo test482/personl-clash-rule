@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,codeium.com # codeium
+  - DOMAIN-SUFFIX,gitea.com
   - DOMAIN-SUFFIX,hltv.org # hltv.org
   - DOMAIN-SUFFIX,localmonero.co # buy XMR
   - DOMAIN-SUFFIX,sleazyfork.org # sleazyfork
