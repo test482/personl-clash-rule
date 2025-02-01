@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,localmonero.co # buy XMR
   - DOMAIN-SUFFIX,sleazyfork.org # sleazyfork
   - DOMAIN-SUFFIX,steamgriddb.com # SteamGridDB
+  - DOMAIN-SUFFIX,tldr.sh # tealdeer
   - DOMAIN-SUFFIX,unminable.com # mining pool
   - DOMAIN,cdn.fwupd.org # fwupd
   - DOMAIN,files.nexus-cdn.com # nexus mod
