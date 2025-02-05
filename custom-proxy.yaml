@@ -1,17 +1,18 @@
 payload:
   - DOMAIN-SUFFIX,codeium.com # codeium
   - DOMAIN-SUFFIX,gitea.com
-  - DOMAIN-SUFFIX,hltv.org # hltv.org
+  - DOMAIN-SUFFIX,hltv.org
   - DOMAIN-SUFFIX,localmonero.co # buy XMR
-  - DOMAIN-SUFFIX,sleazyfork.org # sleazyfork
-  - DOMAIN-SUFFIX,steamgriddb.com # SteamGridDB
+  - DOMAIN-SUFFIX,sleazyfork.org
+  - DOMAIN-SUFFIX,steamgriddb.com
   - DOMAIN-SUFFIX,tldr.sh # tealdeer
   - DOMAIN-SUFFIX,unminable.com # mining pool
-  - DOMAIN,cdn.fwupd.org # fwupd
-  - DOMAIN,files.nexus-cdn.com # nexus mod
+  - DOMAIN,cdn.fwupd.org
+  - DOMAIN,files.nexus-cdn.com
   - DOMAIN,jenkins.fcitx-im.org # fcitx5-android nightly
-  - DOMAIN,www.csgola.com # CSGOLA
-  - DOMAIN,www.subtitlecat.com # subtitlecat
+  - DOMAIN,wiki.metacubex.one # clash meta wiki
+  - DOMAIN,www.csgola.com
+  - DOMAIN,www.subtitlecat.com
   # chaturbate
   - DOMAIN-SUFFIX,mmcdn.com
   - DOMAIN-SUFFIX,highwebmedia.com
