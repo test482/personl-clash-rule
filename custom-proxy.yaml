@@ -11,6 +11,7 @@ payload:
   - DOMAIN,files.nexus-cdn.com
   - DOMAIN,jenkins.fcitx-im.org # fcitx5-android nightly
   - DOMAIN,wiki.metacubex.one # clash meta wiki
+  - DOMAIN,wilson.bronger.org # Lensfun's database update
   - DOMAIN,www.csgola.com
   - DOMAIN,www.subtitlecat.com
   # chaturbate
