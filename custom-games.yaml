@@ -1,14 +1,16 @@
 payload:
   # Master Duel
-  - PROCESS-NAME,masterduel.exe
-  - PROCESS-NAME,jp.konami.masterduel
   - DOMAIN-SUFFIX,konami.net
   # MARVEL SNAP
-  - PROCESS-NAME,SNAP.exe
-  - PROCESS-NAME,com.nvsgames.snap
   - DOMAIN-SUFFIX,marvelsnap.com
   - DOMAIN-SUFFIX,snapgametech.com
   - DOMAIN-SUFFIX,bytedgame.com
   - DOMAIN-SUFFIX,bytegsdk.com
   - DOMAIN-SUFFIX,byteintlapi.com
   - DOMAIN-SUFFIX,byteoversea.com
+  # android package name
+  - PROCESS-NAME,com.nvsgames.snap
+  - PROCESS-NAME,jp.konami.masterduel
+  # windows process name
+  - PROCESS-NAME,masterduel.exe
+  - PROCESS-NAME,SNAP.exe
