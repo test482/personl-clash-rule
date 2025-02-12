@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,byteoversea.com
   # snowbreak
   - DOMAIN-SUFFIX,xoyo.games
+  - DOMAIN-KEYWORD,amazingseasun
   # android package name
   - PROCESS-NAME,com.nvsgames.snap
   - PROCESS-NAME,jp.konami.masterduel
