@@ -1,0 +1,30 @@
+payload:
+  - DOMAIN-KEYWORD,ntp
+  - DOMAIN-KEYWORD,stun
+  - DOMAIN-KEYWORD,time
+  # Google
+  - DOMAIN-SUFFIX,google.cn
+  - DOMAIN-SUFFIX,google.com
+  - DOMAIN-SUFFIX,googleapis.cn
+  - DOMAIN-SUFFIX,googleapis.com
+  - DOMAIN-SUFFIX,gvt1.com
+  - DOMAIN-SUFFIX,mtalk.google.com
+  - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+  - DOMAIN-SUFFIX,youtube.com
+  # Microsoft
+  - DOMAIN-SUFFIX,msftconnecttest.com
+  - DOMAIN-SUFFIX,msftncsi.com
+  - DOMAIN-SUFFIX,xboxlive.com
+  #
+  - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,market.xiaomi.com
+  - DOMAIN-SUFFIX,push.apple.com
+  - DOMAIN-SUFFIX,srv.nintendo.net
+  - DOMAIN-SUFFIX,steamcontent.com # lancache.steamcontent.com
+  - DOMAIN-SUFFIX,tailscale.com
+  - DOMAIN-SUFFIX,tailscale.io
+  - DOMAIN-SUFFIX,twitter.com
+  - DOMAIN,localhost.ptlogin2.qq.com
+  - DOMAIN,networkcheck.kde.org
+  - DOMAIN,nmcheck.gnome.org
+  - DOMAIN,ping.archlinux.org
