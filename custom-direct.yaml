@@ -1,5 +1,12 @@
 payload:
-  - DOMAIN-SUFFIX,pool.ntp.org # ntp
+  - DOMAIN-KEYWORD,ntp
+  - DOMAIN-KEYWORD,time
+  - DOMAIN-SUFFIX,msftconnecttest.com,DIRECT
+  - DOMAIN-SUFFIX,msftncsi.com,DIRECT
+  - DOMAIN-SUFFIX,mtalk.google.com,DIRECT
+  - DOMAIN-SUFFIX,push.apple.com,DIRECT
+  - DOMAIN,metacubexd.pages.dev,DIRECT
+  - DOMAIN,yacd.metacubex.one,DIRECT
   # rustdesk
   - PROCESS-NAME,rustdesk
   - PROCESS-NAME,rustdesk.exe
