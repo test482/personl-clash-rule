@@ -17,6 +17,7 @@ payload:
   - DOMAIN-SUFFIX,xboxlive.com
   #
   - DOMAIN-SUFFIX,facebook.com
+  - DOMAIN-SUFFIX,konami.net
   - DOMAIN-SUFFIX,market.xiaomi.com
   - DOMAIN-SUFFIX,push.apple.com
   - DOMAIN-SUFFIX,srv.nintendo.net
