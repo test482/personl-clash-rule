@@ -1,12 +1,15 @@
 payload:
+  - DOMAIN-KEYWORD,gitea
+  - DOMAIN-KEYWORD,gitlab
+  #
   - DOMAIN-SUFFIX,codeium.com # codeium
-  - DOMAIN-SUFFIX,gitea.com
   - DOMAIN-SUFFIX,hltv.org
   - DOMAIN-SUFFIX,localmonero.co # buy XMR
   - DOMAIN-SUFFIX,sleazyfork.org
   - DOMAIN-SUFFIX,steamgriddb.com
   - DOMAIN-SUFFIX,tldr.sh # tealdeer
   - DOMAIN-SUFFIX,unminable.com # mining pool
+  #
   - DOMAIN,cdn.fwupd.org
   - DOMAIN,files.nexus-cdn.com
   - DOMAIN,jenkins.fcitx-im.org # fcitx5-android nightly
