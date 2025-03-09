@@ -16,6 +16,7 @@ payload:
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,xboxlive.com
   #
+  - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,market.xiaomi.com
   - DOMAIN-SUFFIX,push.apple.com

@@ -12,6 +12,7 @@ payload:
   - DOMAIN-SUFFIX,xoyo.games
   - DOMAIN-KEYWORD,amazingseasun
   # android package name
+  - PROCESS-NAME,com.blizzard.messenger
   - PROCESS-NAME,com.nvsgames.snap
   - PROCESS-NAME,jp.konami.masterduel
   - PROCESS-NAME,com.seasun.snowbreak.google
