@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,codeium.com # codeium
   - DOMAIN-SUFFIX,hltv.org
   - DOMAIN-SUFFIX,localmonero.co # buy XMR
+  - DOMAIN-SUFFIX,lsposed.org
   - DOMAIN-SUFFIX,sleazyfork.org
   - DOMAIN-SUFFIX,steamgriddb.com
   - DOMAIN-SUFFIX,tldr.sh # tealdeer
