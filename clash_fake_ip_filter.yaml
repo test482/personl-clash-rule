@@ -3,12 +3,12 @@ payload:
   - DOMAIN-KEYWORD,stun
   - DOMAIN-KEYWORD,time
   # Google
+  - DOMAIN-KEYWORD,mtalk
   - DOMAIN-SUFFIX,google.cn
   - DOMAIN-SUFFIX,google.com
   - DOMAIN-SUFFIX,googleapis.cn
   - DOMAIN-SUFFIX,googleapis.com
   - DOMAIN-SUFFIX,gvt1.com
-  - DOMAIN-SUFFIX,mtalk.google.com
   - DOMAIN-SUFFIX,xn--ngstr-lra8j.com
   - DOMAIN-SUFFIX,youtube.com
   # Microsoft

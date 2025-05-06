@@ -1,9 +1,9 @@
 payload:
+  - DOMAIN-KEYWORD,mtalk
   - DOMAIN-KEYWORD,ntp
   - DOMAIN-KEYWORD,time
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
-  - DOMAIN-SUFFIX,mtalk.google.com
   - DOMAIN-SUFFIX,push.apple.com
   - DOMAIN,metacubexd.pages.dev
   - DOMAIN,yacd.metacubex.one
