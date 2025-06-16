@@ -3,6 +3,7 @@ payload:
   - DOMAIN-KEYWORD,gitlab
   #
   - DOMAIN-SUFFIX,codeium.com # codeium
+  - DOMAIN-SUFFIX,fansly.com
   - DOMAIN-SUFFIX,hltv.org
   - DOMAIN-SUFFIX,localmonero.co # buy XMR
   - DOMAIN-SUFFIX,lsposed.org
