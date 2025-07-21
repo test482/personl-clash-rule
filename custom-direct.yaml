@@ -1,7 +1,30 @@
 payload:
-  - DOMAIN-KEYWORD,mtalk
-  - DOMAIN-KEYWORD,ntp
-  - DOMAIN-KEYWORD,time
+  # google fcm
+  - DOMAIN,mtalk.google.com
+  - DOMAIN,alt1-mtalk.google.com
+  - DOMAIN,alt2-mtalk.google.com
+  - DOMAIN,alt3-mtalk.google.com
+  - DOMAIN,alt4-mtalk.google.com
+  - DOMAIN,alt5-mtalk.google.com
+  - DOMAIN,alt6-mtalk.google.com
+  - DOMAIN,alt7-mtalk.google.com
+  - DOMAIN,alt8-mtalk.google.com
+  # ntp
+  - DOMAIN-SUFFIX,pool.ntp.org
+  - DOMAIN-SUFFIX,cn.ntp.org.cn
+  - DOMAIN-SUFFIX,de.ntp.org.cn
+  - DOMAIN-SUFFIX,edu.ntp.org.cn
+  - DOMAIN-SUFFIX,hk.ntp.org.cn
+  - DOMAIN-SUFFIX,ina.ntp.org.cn
+  - DOMAIN-SUFFIX,jp.ntp.org.cn
+  - DOMAIN-SUFFIX,kr.ntp.org.cn
+  - DOMAIN-SUFFIX,sgp.ntp.org.cn
+  - DOMAIN-SUFFIX,time.edu.cn
+  - DOMAIN-SUFFIX,time.nist.gov
+  - DOMAIN-SUFFIX,time.windows.com
+  - DOMAIN-SUFFIX,tw.ntp.org.cn
+  - DOMAIN-SUFFIX,us.ntp.org.cn
+  #
   - DOMAIN-SUFFIX,msftconnecttest.com
   - DOMAIN-SUFFIX,msftncsi.com
   - DOMAIN-SUFFIX,push.apple.com
