@@ -1,6 +1,6 @@
 payload:
   # my domains
-  - DOMAIN,ts.ecrop.one
+  - DOMAIN,ts.ecorp.one
   # google fcm
   - DOMAIN,mtalk.google.com
   - DOMAIN,alt1-mtalk.google.com
