@@ -1,4 +1,7 @@
 payload:
+  # my domains
+  - DOMAIN,ts.ecorp.one
+  # keyword
   - DOMAIN-KEYWORD,ntp
   - DOMAIN-KEYWORD,stun
   - DOMAIN-KEYWORD,time
