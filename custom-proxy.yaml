@@ -15,11 +15,12 @@ payload:
   - DOMAIN-SUFFIX,tldr.sh # tealdeer
   - DOMAIN-SUFFIX,unminable.com # mining pool
   #
+  - DOMAIN,avsox.click
   - DOMAIN,cdn.fwupd.org
   - DOMAIN,files.nexus-cdn.com
   - DOMAIN,forum.manjaro.org
-  - DOMAIN,umami.manjaro.org
   - DOMAIN,jenkins.fcitx-im.org # fcitx5-android nightly
+  - DOMAIN,umami.manjaro.org
   - DOMAIN,wiki.metacubex.one # clash meta wiki
   - DOMAIN,wilson.bronger.org # Lensfun's database update
   - DOMAIN,www.csgola.com
