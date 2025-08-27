@@ -10,6 +10,7 @@ payload:
   - DOMAIN-SUFFIX,lsposed.org
   - DOMAIN-SUFFIX,microg.org
   - DOMAIN-SUFFIX,onlyfans.com
+  - DOMAIN-SUFFIX,renpy.org # .renpy
   - DOMAIN-SUFFIX,shuzijumin.com
   - DOMAIN-SUFFIX,sleazyfork.org
   - DOMAIN-SUFFIX,steamgriddb.com
