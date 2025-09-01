@@ -23,6 +23,7 @@ payload:
   - DOMAIN-SUFFIX,uu.163.com
   - DOMAIN,ps.res.netease.com
   #
+  - DOMAIN-SUFFIX,argotunnel.com # cloudflared tunnel
   - DOMAIN-SUFFIX,battle.net
   - DOMAIN-SUFFIX,facebook.com
   - DOMAIN-SUFFIX,market.xiaomi.com
