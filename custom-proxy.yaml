@@ -6,6 +6,7 @@ payload:
   - DOMAIN-SUFFIX,fansly.com
   - DOMAIN-SUFFIX,hltv.org
   - DOMAIN-SUFFIX,libretro.com # retroarch
+  - DOMAIN-SUFFIX,link.me
   - DOMAIN-SUFFIX,localmonero.co # buy XMR
   - DOMAIN-SUFFIX,lsposed.org
   - DOMAIN-SUFFIX,microg.org
