@@ -5,6 +5,7 @@ payload:
   - DOMAIN-SUFFIX,codeium.com # codeium
   - DOMAIN-SUFFIX,fansly.com
   - DOMAIN-SUFFIX,hltv.org
+  - DOMAIN-SUFFIX,javmenu.net
   - DOMAIN-SUFFIX,libretro.com # retroarch
   - DOMAIN-SUFFIX,link.me
   - DOMAIN-SUFFIX,localmonero.co # buy XMR
