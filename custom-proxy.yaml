@@ -3,6 +3,7 @@ payload:
   - DOMAIN-KEYWORD,gitlab
   #
   - DOMAIN-SUFFIX,codeium.com # codeium
+  - DOMAIN-SUFFIX,duellinksmeta.com # masterduelmeta
   - DOMAIN-SUFFIX,fansly.com
   - DOMAIN-SUFFIX,hltv.org
   - DOMAIN-SUFFIX,javmenu.net
