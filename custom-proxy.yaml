@@ -4,6 +4,8 @@ payload:
   #
   - DOMAIN-SUFFIX,codeium.com # codeium
   - DOMAIN-SUFFIX,duellinksmeta.com # masterduelmeta
+  - DOMAIN-SUFFIX,yugiohmeta.com
+  - DOMAIN-SUFFIX,masterduelmeta.com
   - DOMAIN-SUFFIX,fansly.com
   - DOMAIN-SUFFIX,hltv.org
   - DOMAIN-SUFFIX,javmenu.net
