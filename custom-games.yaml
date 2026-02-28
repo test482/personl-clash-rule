@@ -8,6 +8,8 @@ payload:
   - DOMAIN-SUFFIX,bytegsdk.com
   - DOMAIN-SUFFIX,byteintlapi.com
   - DOMAIN-SUFFIX,byteoversea.com
+  # warframe market
+  - DOMAIN-SUFFIX,warframe.market
   # netease yysbwp google play
   - DOMAIN-SUFFIX,easebar.com
   # android package name
